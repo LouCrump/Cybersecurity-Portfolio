@@ -1,52 +1,120 @@
-# Louis Crump
+# 👋 Hi, I'm Louis Crump
 
-## Cybersecurity Portfolio
+Welcome to my Cybersecurity Portfolio!
 
-Welcome to my cybersecurity portfolio! This repository showcases my hands-on cybersecurity projects, home labs, and technical skills as I work toward becoming a Security Operations Center (SOC) Analyst.
-
----
-
-## About Me
-
-I am a U.S. Navy veteran and cybersecurity student with a passion for blue team operations, threat detection, and defensive security. I enjoy building home labs to gain practical experience with enterprise security tools and technologies.
+I am a U.S. Navy veteran and cybersecurity student with a passion for security operations, system administration, and IT support. This portfolio showcases the hands-on projects I've built to develop real-world technical skills and prepare for a career in cybersecurity.
 
 ---
 
-## Technical Skills
+# 🎯 Career Objective
 
+My goal is to obtain an entry-level **SOC Analyst**, **Cybersecurity Analyst**, or **IT Support** position where I can apply my technical knowledge, continue learning, and help organizations protect their systems.
+
+---
+
+# 🛠️ Technical Skills
+
+### Security
 - Splunk Enterprise
-- Windows Event Logging
-- Sysmon
-- Windows 10
-- Ubuntu Linux
-- VMware Workstation
-- Active Directory (Learning)
-- Networking
 - SIEM Monitoring
-- Threat Hunting
-- Incident Response
+- Windows Event Logs
+- Sysmon
+- Security Event Analysis
+
+### Operating Systems
+- Windows 10/11
+- Ubuntu Linux
+
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- VLANs
+- Routing
+- Firewalls
+- Network Troubleshooting
+
+### Virtualization
+- VMware Workstation
+- Virtual Machines
+
+### Tools
+- Git
+- GitHub
+- GitHub Desktop
+- PowerShell
+- Command Prompt
 
 ---
 
-## Current Projects
+# 📂 Portfolio Projects
 
-| Project | Status |
-|---------|--------|
-| Splunk SOC Monitoring Lab | ✅ In Progress |
-| Active Directory Lab | 🔜 Planned |
-| Threat Hunting Lab | 🔜 Planned |
-| Malware Analysis Lab | 🔜 Planned |
-| Detection Engineering | 🔜 Planned |
+## 🛡️ Splunk SOC Lab
+
+A hands-on Security Operations Center (SOC) lab built using Splunk Enterprise running on Ubuntu with a Windows endpoint forwarding security logs.
+
+### Skills Demonstrated
+
+- Splunk Enterprise installation
+- Universal Forwarder configuration
+- Windows Event Log collection
+- SIEM administration
+- SPL searching
+- Dashboard creation
+- Security monitoring
+- Troubleshooting log ingestion
+
+📁 **Project Location**
+
+```
+Projects/Splunk-SOC-Lab
+```
 
 ---
 
-## Career Goal
+## 🚧 Upcoming Projects
 
-To obtain a Tier 1 SOC Analyst position where I can apply my skills in security monitoring, log analysis, incident response, and threat detection while continuing to grow as a cybersecurity professional.
+I'm actively expanding this portfolio with additional cybersecurity labs, including:
+
+- Active Directory Home Lab
+- Windows Server Administration
+- ServiceNow Ticketing
+- PowerShell Automation
+- Wireshark Network Analysis
+- Microsoft Sentinel SIEM
+- Vulnerability Management
+- Nessus Essentials
+- Linux Administration
 
 ---
 
-## Contact
+# 📜 Certifications
 
-- GitHub: *(This profile)*
-- LinkedIn: *(Coming Soon)*
+### Currently Working Toward
+
+- CompTIA Security+
+- Undergraduate Cybersecurity Certificate
+
+---
+
+# 💼 Professional Background
+
+- U.S. Navy Veteran
+- Strong customer service experience
+- Technical troubleshooting
+- Windows administration
+- Linux administration
+- Networking fundamentals
+- Security monitoring
+
+---
+
+# 📫 Connect With Me
+
+**GitHub**
+
+https://github.com/LouCrump
+
+---
+
+Thank you for taking the time to view my portfolio!
