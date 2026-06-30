@@ -1,62 +1,77 @@
-# Splunk SOC Lab
+# 🛡️ Splunk SOC Lab
 
 ## Overview
-This project demonstrates my ability to build and configure a basic Security Operations Center (SOC) lab using Splunk Enterprise and a Windows endpoint. The lab collects Windows event logs, forwards them to Splunk, and visualizes security events through dashboards and searches.
 
-## Objectives
-- Install and configure Splunk Enterprise
-- Install and configure the Splunk Universal Forwarder
-- Collect Windows Event Logs
-- Create custom indexes
-- Build dashboards for monitoring security events
-- Analyze Windows logs using SPL (Search Processing Language)
-
-## Lab Environment
-
-### Operating Systems
-- Ubuntu Linux (Splunk Server)
-- Windows 10 (Endpoint)
-
-### Tools
-- Splunk Enterprise
-- Splunk Universal Forwarder
-- VMware Workstation
-- Sysmon
-- Windows Event Viewer
-
-## Skills Demonstrated
-- SIEM Administration
-- Log Collection
-- Windows Event Monitoring
-- Linux Administration
-- Security Monitoring
-- Dashboard Creation
-- SPL Searching
-- Incident Investigation
-
-## Screenshots
-
-The `screenshots` folder contains images showing:
-
-- Splunk installation
-- Universal Forwarder configuration
-- Windows Event Log ingestion
-- SPL searches
-- Dashboard creation
-- Security monitoring
-
-## Lessons Learned
-
-During this project I learned how a SIEM collects and analyzes logs from Windows endpoints. I gained experience configuring data inputs, troubleshooting connectivity issues, building dashboards, and investigating Windows security events. This project strengthened my understanding of SOC operations and log analysis.
-
-## Future Improvements
-
-- Add additional Windows endpoints
-- Forward Sysmon logs
-- Create correlation searches
-- Configure alerts
-- Integrate threat intelligence feeds
+This project demonstrates how I built a Security Operations Center (SOC) lab using Splunk Enterprise on Ubuntu and a Windows 10 endpoint. I configured Windows Event Log collection using the Splunk Universal Forwarder and created dashboards to monitor and analyze security events.
 
 ---
 
-**Author:** Louis Crump
+## Lab Environment
+
+| Component | Technology |
+|-----------|------------|
+| SIEM | Splunk Enterprise |
+| Endpoint | Windows 10 |
+| Server | Ubuntu Linux |
+| Virtualization | VMware Workstation |
+| Log Collection | Splunk Universal Forwarder |
+| Operating System Logs | Windows Event Logs |
+
+---
+
+## Skills Demonstrated
+
+- Splunk Enterprise Administration
+- SIEM Deployment
+- Windows Event Log Collection
+- Universal Forwarder Configuration
+- Dashboard Creation
+- SPL (Search Processing Language)
+- Linux Administration
+- Virtual Machine Management
+- Security Monitoring
+- Troubleshooting
+
+---
+
+## Project Screenshots
+
+### Ubuntu Installation
+
+See: `screenshots/ubuntu-splunk-install.png`
+
+### Splunk Administration
+
+See: `screenshots/splunk-settings.png`
+
+### Windows Event Search
+
+See: `screenshots/windows-event-search.png`
+
+### Dashboard Overview
+
+See: `screenshots/dashboard-overview.png`
+
+### Dashboard Analytics
+
+See: `screenshots/dashboard-analytics.png`
+
+### Security Events
+
+See: `screenshots/security-events.png`
+
+---
+
+## Lessons Learned
+
+This project helped me understand how a SIEM collects, indexes, and analyzes security logs from Windows endpoints. I gained hands-on experience installing Splunk Enterprise, configuring a Universal Forwarder, troubleshooting connectivity issues, creating dashboards, and using SPL searches to investigate Windows events.
+
+---
+
+## Future Improvements
+
+- Add Sysmon log collection
+- Create custom alerts
+- Add additional Windows endpoints
+- Integrate threat intelligence
+- Build correlation searches
