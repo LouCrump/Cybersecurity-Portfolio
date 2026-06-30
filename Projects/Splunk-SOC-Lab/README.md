@@ -1,48 +1,62 @@
-# Splunk SOC Monitoring Lab
+# Splunk SOC Lab
 
-## Project Overview
-
-This project demonstrates the deployment of a Security Information and Event Management (SIEM) solution using Splunk Enterprise. The lab collects and analyzes Windows endpoint telemetry using Sysmon and the Splunk Universal Forwarder to support security monitoring, threat detection, and incident investigation.
-
----
+## Overview
+This project demonstrates my ability to build and configure a basic Security Operations Center (SOC) lab using Splunk Enterprise and a Windows endpoint. The lab collects Windows event logs, forwards them to Splunk, and visualizes security events through dashboards and searches.
 
 ## Objectives
-
-- Install Splunk Enterprise on Ubuntu Linux
-- Configure a Windows 10 endpoint
-- Install the Splunk Universal Forwarder
-- Configure Sysmon for endpoint logging
-- Forward Windows event logs to Splunk
-- Create dashboards for SOC monitoring
-- Develop searches for threat hunting
-
----
+- Install and configure Splunk Enterprise
+- Install and configure the Splunk Universal Forwarder
+- Collect Windows Event Logs
+- Create custom indexes
+- Build dashboards for monitoring security events
+- Analyze Windows logs using SPL (Search Processing Language)
 
 ## Lab Environment
 
-| Component | Purpose |
-|----------|---------|
-| Ubuntu VM | Splunk Enterprise Server |
-| Windows 10 VM | Monitored Endpoint |
-| Sysmon | Endpoint Telemetry |
-| Splunk Universal Forwarder | Log Collection |
-| VMware Workstation | Virtualization Platform |
+### Operating Systems
+- Ubuntu Linux (Splunk Server)
+- Windows 10 (Endpoint)
 
----
+### Tools
+- Splunk Enterprise
+- Splunk Universal Forwarder
+- VMware Workstation
+- Sysmon
+- Windows Event Viewer
 
 ## Skills Demonstrated
-
 - SIEM Administration
-- Windows Event Logging
+- Log Collection
+- Windows Event Monitoring
 - Linux Administration
-- Sysmon Configuration
-- SPL (Search Processing Language)
+- Security Monitoring
 - Dashboard Creation
-- Threat Hunting
-- Incident Response
+- SPL Searching
+- Incident Investigation
+
+## Screenshots
+
+The `screenshots` folder contains images showing:
+
+- Splunk installation
+- Universal Forwarder configuration
+- Windows Event Log ingestion
+- SPL searches
+- Dashboard creation
+- Security monitoring
+
+## Lessons Learned
+
+During this project I learned how a SIEM collects and analyzes logs from Windows endpoints. I gained experience configuring data inputs, troubleshooting connectivity issues, building dashboards, and investigating Windows security events. This project strengthened my understanding of SOC operations and log analysis.
+
+## Future Improvements
+
+- Add additional Windows endpoints
+- Forward Sysmon logs
+- Create correlation searches
+- Configure alerts
+- Integrate threat intelligence feeds
 
 ---
 
-## Project Status
-
-✅ In Progress
+**Author:** Louis Crump
