@@ -38,27 +38,27 @@ This project demonstrates how I built a Security Operations Center (SOC) lab usi
 
 ### Ubuntu Installation
 
-See: `screenshots/ubuntu-splunk-install.png`
+See: ![Ubuntu Installation](screenshots/ubuntu-splunk-install.png)
 
 ### Splunk Administration
 
-See: `screenshots/splunk-settings.png`
+See: ![Splunk Administration](screenshots/splunk-settings.png)
 
 ### Windows Event Search
 
-See: `screenshots/windows-event-search.png`
+See: ![Windows Event Search](screenshots/windows-event-search.png)
 
 ### Dashboard Overview
 
-See: `screenshots/dashboard-overview.png`
+See: ![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ### Dashboard Analytics
 
-See: `screenshots/dashboard-analytics.png`
+See: ![Dashboard Analytics](screenshots/dashboard-analytics.png)
 
 ### Security Events
 
-See: `screenshots/security-events.png`
+See: ![Security Events](screenshots/security-events.png)
 
 ---
 
