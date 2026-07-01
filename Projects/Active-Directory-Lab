@@ -1,1 +1,49 @@
+# Active Directory Home Lab
 
+## Project Overview
+This project demonstrates the deployment and administration of Microsoft Active Directory in a Windows Server environment. The lab was built to practice common System Administrator and Help Desk tasks.
+
+## Skills Demonstrated
+- Active Directory Domain Services (AD DS)
+- Creating Organizational Units (OUs)
+- Creating and managing users
+- Creating security groups
+- Password resets
+- Account lockout management
+- Group Policy basics
+- User account administration
+
+## Lab Environment
+- Windows Server 2022
+- Windows 10 Client
+- VMware Workstation
+- Active Directory Users and Computers (ADUC)
+
+## Project Tasks
+- Installed Active Directory Domain Services
+- Promoted the server to a Domain Controller
+- Created Organizational Units
+- Added users
+- Added security groups
+- Reset user passwords
+- Tested user logins
+
+## Screenshots
+
+### Domain Controller
+(Add screenshot here)
+
+### Organizational Units
+(Add screenshot here)
+
+### Users Created
+(Add screenshot here)
+
+### Security Groups
+(Add screenshot here)
+
+### Password Reset
+(Add screenshot here)
+
+## What I Learned
+This lab strengthened my understanding of Active Directory administration, user management, and common IT support tasks used in enterprise environments.
