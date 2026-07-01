@@ -38,27 +38,51 @@ This project demonstrates how I built a Security Operations Center (SOC) lab usi
 
 ### Ubuntu Installation
 
-See: ![Ubuntu Installation](screenshots/ubuntu-splunk-install.png)
+## Ubuntu Installation
 
-### Splunk Administration
+![Ubuntu Installation](screenshots/ubuntu-splunk-install.png)
 
-See: ![Splunk Administration](screenshots/splunk-settings.png)
+Installed Ubuntu Server and configured Splunk Enterprise.
 
-### Windows Event Search
+---
 
-See: ![Windows Event Search](screenshots/windows-event-search.png)
+## Splunk Administration
 
-### Dashboard Overview
+![Splunk Administration](screenshots/splunk-settings.png)
 
-See: ![Dashboard Overview](screenshots/dashboard-overview.png)
+Configured indexes, inputs, and data sources.
 
-### Dashboard Analytics
+---
 
-See: ![Dashboard Analytics](screenshots/dashboard-analytics.png)
+## Windows Event Search
 
-### Security Events
+![Windows Event Search](screenshots/windows-event-search.png)
 
-See: ![Security Events](screenshots/security-events.png)
+Verified Windows Security Events were successfully indexed.
+
+---
+
+## Dashboard Overview
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+Created a custom SOC dashboard to monitor Windows activity.
+
+---
+
+## Dashboard Analytics
+
+![Dashboard Analytics](screenshots/dashboard-analytics.png)
+
+Visualized event trends and security metrics.
+
+---
+
+## Security Events
+
+![Security Events](screenshots/security-events.png)
+
+Investigated Windows Security Event Logs using SPL searches.
 
 ---
 
